@@ -78,3 +78,7 @@ img {
     border-color: gray;  
     border-width: 1px;
 }
+
+.border-radius {
+    border-radius: 0 8rem 0 0;
+}
